@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mi aplicación Portfolio</string>
+    <string name="action_settings">Opciones</string>
+    <string name="app_txt">Mis aplicaciones Nanodegree!</string>
+    <string name="project1_name">SPOTIFY TRANSISTOR</string>
+    <string name="project2_name">PUNTUACIÓN</string>
+    <string name="project3_name">BIBLIOTECA</string>
+    <string name="project4_name">HAZLO GRANDE</string>
+    <string name="project5_name">XYZ LECTOR</string>
+    <string name="project6_name">CAPSTONE: MI APLICACIÓN</string>
+</resources>

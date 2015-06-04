@@ -1,0 +1,26 @@
+<resources>
+
+    <style name="layout_apps_btn">
+        <item name="android:background">#BBDEFB</item>
+        <item name="android:textColor">#1A237E</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">40sp</item>
+        <item name="android:layout_marginLeft">40sp</item>
+        <item name="android:layout_marginTop">20sp</item>
+    </style>
+
+    <style name="layout_myApp_btn">
+        <item name="android:background">#FFCDD2</item>
+        <item name="android:textColor">#C62828</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">40sp</item>
+        <item name="android:layout_marginLeft">40sp</item>
+        <item name="android:layout_marginTop">20sp</item>
+    </style>
+
+
+</resources>
